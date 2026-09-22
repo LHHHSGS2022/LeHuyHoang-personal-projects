@@ -18,14 +18,16 @@ This repository serves as an academic archive for my personal projects, course r
 
 ---
 
-## File structure
+##  File Structure
 
+```text
 LeHuyHoang-personal-projects/
-├──  Report/                       # Research write-ups & reports
-├──  Questions and comments/       # Instructor feedback & Q&A
-├──  Example/                      # Coursework assignments & labs
-├──  Images of classroom activities/# Visual activity logs
-├──  Electronic document/          # Reference materials & books
-├──  Presentation video/           # Video links & logs
-├──  Lê Hoàng - Learning Tracker.xlsx # Progress tracker
-└──  README.md                     # Documentation
+├── Report/                           # Research write-ups & reports
+├── Questions and comments/           # Instructor feedback & Q&A
+├── Example/                          # Coursework assignments & labs
+├── Images of classroom activities/   # Visual activity logs
+├── Electronic document/              # Reference materials & books
+├── Presentation video/               # Video links & logs
+├── Lê Hoàng - Learning Tracker.xlsx  # Progress tracker
+└── README.md                         # Documentation
+```
