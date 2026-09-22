@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=MQ? NewDesignator=MQ2
+Change Component Designator: OldDesignator=MQ? NewDesignator=MQ3
+Change Net Name : Old Net Name=NetMQ?_3 New Net Name=NetMQ2_3
+Change Net Name : Old Net Name=NetMQ?_4 New Net Name=NetMQ3_4
+Added Pin To Net: NetName=NetMQ2_4 Pin=MQ2-4
+Added Pin To Net: NetName=NetMQ2_4 Pin=U1-3
+Added Net: Name=NetMQ2_4
+Added Pin To Net: NetName=NetMQ3_3 Pin=MQ3-3
+Added Pin To Net: NetName=NetMQ3_3 Pin=U1-7
+Added Net: Name=NetMQ3_3
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * Module SSD1306
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component MQ3 MQ135
+Added Room: Name=Sheet1

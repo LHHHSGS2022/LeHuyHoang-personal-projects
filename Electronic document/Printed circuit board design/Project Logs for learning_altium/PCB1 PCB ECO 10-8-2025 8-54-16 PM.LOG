@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=SIG Pin=U1-10
+Removed Pin From Net: NetName=NC Pin=U1-11
+Added Component: Designator=MQ?(MQ135)
+Added Component: Designator=MQ?(MQ135)
+Added Pin To Net: NetName=+5 Pin=MQ?-1
+Added Pin To Net: NetName=+5 Pin=MQ?-1
+Added Pin To Net: NetName=GND Pin=MQ?-2
+Added Pin To Net: NetName=GND Pin=MQ?-2
+Added Pin To Net: NetName=NC Pin=U1-8
+Added Pin To Net: NetName=SIG Pin=U1-9
+Added Pin To Net: NetName=NetMQ?_3 Pin=MQ?-3
+Added Pin To Net: NetName=NetMQ?_3 Pin=U1-2
+Added Net: Name=NetMQ?_3
+Add Net: Net with name "NetMQ?_3" already exists
+Added Pin To Net: NetName=NetMQ?_4 Pin=MQ?-4
+Added Pin To Net: NetName=NetMQ?_4 Pin=U1-6
+Added Net: Name=NetMQ?_4
+Add Net: Net with name "NetMQ?_4" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * Module SSD1306
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component MQ? MQ135
+Added Member To Class: ClassName=Sheet1 Member=Component MQ? MQ135

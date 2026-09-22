@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NC Pin=U1-9
+Added Pin To Net: NetName=NC Pin=U1-11
+Change Net Name : Old Net Name=NetU1_10 New Net Name=SIG

@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=GND Pin=AMS?-1
+Removed Pin From Net: NetName=GND Pin=BTT-2
+Removed Pin From Net: NetName=GND Pin=BTT-2
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Member From Class: ClassName=Sheet1 Member=AMS?
+Removed Member From Class: ClassName=Sheet1 Member=BTT
+Change Component Footprint: Designator=C3 Old Footprint=tu tantalum dip5.08 New Footprint=tu hoa 5mm
+Change Component Comment : Designator=C4 Old Comment=22uF New Comment=0.1uF
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=0.33uF
+Change Component Designator: OldDesignator=* NewDesignator=SSD1
+Change component parameters: Designator = "C3" ("C3"); Footprint = "tu tantalum dip5.08"; UniqueID = "\FYBRKNSE" ("\FYBRKNSE")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004655"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 0.33uF 50V 5x11MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "tu hoa 5mm"; UniqueID = "\NVKBYXOT" ("\NVKBYXOT")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006853"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 0.1uF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=BT1(DE PIN 18650 X2)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH010812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "H?p Ð? Pin 18650 Hàn M?ch DP 18650-HM-02"; VariantName = "[No Variations]"
+Added Component: Designator=C1(tu tantalum dip5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003955"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 104-100nF 50V 20% DIP5.08 (s? vàng)(10PCS)"; VariantName = "[No Variations]"
+Added Component: Designator=LM1(TO220H1)
+Added Component: Designator=S1(SPDT Subminiator)
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design date"; Value = "2011/11/02"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Screw Hole 4mm
+Add Component: Footprint Not Found Screw Hole 4mm
+Add Component: Footprint Not Found Screw Hole 4mm
+Add Component: Footprint Not Found Screw Hole 4mm
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=LM1-2
+Added Pin To Net: NetName=+5 Pin=LM1-3
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetSSD1_3
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetSSD1_4
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=S1-3
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=LM1-1
+Added Pin To Net: NetName=NetC1_1 Pin=S1-2
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 18650
+Added Member To Class: ClassName=Sheet1 Member=Component C1 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component LM1 LM7805
+Added Member To Class: ClassName=Sheet1 Member=Component S1 Switch SPDT_Subminiator
+Add Class Member: Failed to add class member : Component VIT1 1
+Add Class Member: Failed to add class member : Component VIT2 1
+Add Class Member: Failed to add class member : Component VIT3 1
+Add Class Member: Failed to add class member : Component VIT4 1

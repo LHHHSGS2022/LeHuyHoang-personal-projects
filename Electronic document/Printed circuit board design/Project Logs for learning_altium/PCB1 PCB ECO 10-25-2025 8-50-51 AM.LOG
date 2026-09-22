@@ -1,0 +1,7 @@
+Added Component: Designator=BT1(Battery)
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * Module SSD1306
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 Battery

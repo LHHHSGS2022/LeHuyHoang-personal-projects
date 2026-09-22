@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Change Component Footprint: Designator=BT1 Old Footprint=DE PIN 18650 X2 New Footprint=BAT_BK-18650-PC4
+Change Component Comment : Designator=BT1 Old Comment=18650 New Comment=BK-18650-PC4
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "DE PIN 18650 X2"; UniqueID = "\YKPNSSUA" ("\YKPNSSUA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BK-18650-PC4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-1-
+Added Pin To Net: NetName=NetBT1_1+ Pin=BT1-1+
+Added Pin To Net: NetName=NetBT1_1+ Pin=BT1-2-
+Added Net: Name=NetBT1_1+
+Added Pin To Net: NetName=NetBT1_2+ Pin=BT1-2+
+Added Pin To Net: NetName=NetBT1_2+ Pin=S1-3
+Added Net: Name=NetBT1_2+

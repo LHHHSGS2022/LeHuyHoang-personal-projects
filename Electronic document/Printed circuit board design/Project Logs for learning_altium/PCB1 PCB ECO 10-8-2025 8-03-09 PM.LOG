@@ -1,0 +1,12 @@
+Added Component: Designator=MQ1(MQ135)
+Add Component: Footprint Not Found DHT11
+Added Pin To Net: NetName=+5 Pin=MQ1-1
+Added Pin To Net: NetName=GND Pin=MQ1-2
+Added Pin To Net: NetName=NetMQ1_3 Pin=MQ1-3
+Added Pin To Net: NetName=NetMQ1_4 Pin=MQ1-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Added Member To Class: ClassName=Sheet1 Member=Component MQ1 MQ135
+Add Class Member: Failed to add class member : Component U2 DHT11

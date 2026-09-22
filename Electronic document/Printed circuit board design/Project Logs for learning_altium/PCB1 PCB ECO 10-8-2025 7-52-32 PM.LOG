@@ -1,0 +1,26 @@
+Added Component: Designator=*(Module SSD1306)
+Add Component: Footprint Not Found MQ135
+Added Component: Designator=U1(ESP32_Module)
+Add Component: Footprint Not Found DHT22_180
+Added Pin To Net: NetName=+5 Pin=*-2
+Added Pin To Net: NetName=+5 Pin=U1-15
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Net: Name=GND
+Added Pin To Net: NetName=NC Pin=U1-9
+Added Net: Name=NC
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=U1-17
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=U1-20
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=NetMQ1_3 Pin=U1-13
+Added Net: Name=NetMQ1_3
+Added Pin To Net: NetName=NetMQ1_4 Pin=U1-12
+Added Net: Name=NetMQ1_4
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Net: Name=NetU1_10
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NC Pin=U1-8
+Removed Pin From Net: NetName=SIG Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=+5 Pin=U1-15
+Removed Pin From Net: NetName=GND Pin=U1-29
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=ESP32(ESP32 Module 30GPIO_v2)
+Added Pin To Net: NetName=GND Pin=ESP32-14
+Added Pin To Net: NetName=NC Pin=ESP32-23
+Added Pin To Net: NetName=SIG Pin=ESP32-24
+Added Pin To Net: NetName=GND Pin=ESP32-29
+Added Pin To Net: NetName=+5 Pin=ESP32-30
+Added Pin To Net: NetName=NetESP32_2 Pin=ESP32-2
+Added Pin To Net: NetName=NetESP32_2 Pin=SSD1-4
+Added Net: Name=NetESP32_2
+Added Pin To Net: NetName=NetESP32_5 Pin=ESP32-5
+Added Pin To Net: NetName=NetESP32_5 Pin=SSD1-3
+Added Net: Name=NetESP32_5
+Added Pin To Net: NetName=NetESP32_20 Pin=ESP32-20
+Added Pin To Net: NetName=NetESP32_20 Pin=MQ1-4
+Added Net: Name=NetESP32_20
+Added Pin To Net: NetName=NetESP32_21 Pin=ESP32-21
+Added Pin To Net: NetName=NetESP32_21 Pin=MQ2-4
+Added Net: Name=NetESP32_21
+Added Pin To Net: NetName=NetESP32_22 Pin=ESP32-22
+Added Pin To Net: NetName=NetESP32_22 Pin=MQ3-4
+Added Net: Name=NetESP32_22
+Added Member To Class: ClassName=Sheet1 Member=Component ESP32 ESP32 Module 30GPIO

@@ -1,0 +1,7 @@
+Added Component: Designator=U2(DHT22_180)
+Add component (AddParameter): Name = "Digikey PN"; Value = "1528-1228-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U2-1
+Added Pin To Net: NetName=NetU1_10 Pin=U2-2
+Added Pin To Net: NetName=NC Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Member To Class: ClassName=Sheet1 Member=Component U2 DHT22

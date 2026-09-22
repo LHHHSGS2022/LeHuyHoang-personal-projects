@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=+5 Pin=BTT-1
+Change Component Footprint: Designator=BTT Old Footprint=Battery New Footprint=DE PIN 18650 X2
+Change Component Comment : Designator=BTT Old Comment=Battery New Comment=18650
+Change component parameters: Designator = "BTT" ("BTT"); Footprint = "Battery"; UniqueID = "\BUHJEFIH" ("\BUHJEFIH")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH010812"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "H?p Ð? Pin 18650 Hàn M?ch DP 18650-HM-02"; VariantName = "[No Variations]"
+Added Component: Designator=AMS?(SOT223)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AMS1117-3.3V SOT223"; VariantName = "[No Variations]"
+Added Component: Designator=C1(tu hoa 5mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006858"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 22uF 25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(tu tantalum dip5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003955"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 104-100nF 50V 20% DIP5.08 (s? vàng)(10PCS)"; VariantName = "[No Variations]"
+Added Component: Designator=C3(tu tantalum dip5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003955"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 104-100nF 50V 20% DIP5.08 (s? vàng)(10PCS)"; VariantName = "[No Variations]"
+Added Component: Designator=C4(tu hoa 5mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006858"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 22uF 25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AMS?-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetAMS?_2 Pin=AMS?-2
+Added Pin To Net: NetName=NetAMS?_2 Pin=C3-1
+Added Pin To Net: NetName=NetAMS?_2 Pin=C4-1
+Added Net: Name=NetAMS?_2
+Added Pin To Net: NetName=NetAMS?_3 Pin=AMS?-3
+Added Pin To Net: NetName=NetAMS?_3 Pin=BTT-1
+Added Pin To Net: NetName=NetAMS?_3 Pin=BTT-1
+Added Pin To Net: NetName=NetAMS?_3 Pin=C1-1
+Added Pin To Net: NetName=NetAMS?_3 Pin=C2-1
+Added Net: Name=NetAMS?_3
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * Module SSD1306
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component AMS? AMS1117-5V
+Added Member To Class: ClassName=Sheet1 Member=Component C1 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22uF

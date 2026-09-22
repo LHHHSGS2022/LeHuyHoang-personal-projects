@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetMQ1_4 Pin=MQ1-4
+Added Pin To Net: NetName=NetMQ1_4 Pin=U1-4
+Added Net: Name=NetMQ1_4
+Added Pin To Net: NetName=NetMQ2_4 Pin=MQ2-4
+Added Pin To Net: NetName=NetMQ2_4 Pin=U1-5
+Added Net: Name=NetMQ2_4
+Added Pin To Net: NetName=NetMQ3_4 Pin=MQ3-4
+Added Pin To Net: NetName=NetMQ3_4 Pin=U1-6
+Added Net: Name=NetMQ3_4
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * Module SSD1306

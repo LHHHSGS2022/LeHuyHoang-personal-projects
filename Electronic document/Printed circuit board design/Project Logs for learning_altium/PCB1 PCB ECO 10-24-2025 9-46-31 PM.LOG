@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=* NewDesignator=19
+Add Pin To Net: Unknown Pin: Pin 19-11
+Add Pin To Net: Unknown Pin: Pin 19-12
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * Module SSD1306
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component 19 Battery

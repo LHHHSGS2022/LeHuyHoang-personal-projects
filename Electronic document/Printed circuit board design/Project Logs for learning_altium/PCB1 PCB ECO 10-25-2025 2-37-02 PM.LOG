@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+5 Pin=BT1-1
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Member From Class: ClassName=Sheet1 Member=BT1
+Added Component: Designator=BTT(Battery)
+Added Pin To Net: NetName=+5 Pin=BTT-1
+Added Pin To Net: NetName=GND Pin=BTT-2
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * Module SSD1306
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component * VIT
+Added Member To Class: ClassName=Sheet1 Member=Component BTT Battery
