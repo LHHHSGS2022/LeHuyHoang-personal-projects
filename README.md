@@ -18,13 +18,13 @@ This repository serves as an academic archive for my personal projects, course r
 
 ---
 
-## Folder Structure
+## Content
 
 ```text
-├── Báo cáo/                      # Project reports
-├── Câu hỏi và nhận xét/          # Review Q&A and instructor feedback
-├── Bài tập/                      # Course assignments
-├── Hình ảnh công việc trên lớp/  # Classroom activity logs
-├── Tài liệu điện tử/             # Reference materials
-├── Video thuyết trình_/          # Project presentation videos
-└── Learning Tracker.xlsx         # Learning progress tracker
+├── Project reports
+├── Review Q&A and instructor feedback
+├── Course assignments
+├── Classroom activity logs
+├── Reference materials
+├── Project presentation videos
+└── Learning progress tracker
