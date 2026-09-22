@@ -11,10 +11,10 @@ This repository serves as an academic archive for my personal projects, course r
 
 ## Repository Contents
 
-- ** Reports & Documentation (`Báo cáo/`):** Academic research write-ups and project documentation.
-- ** Presentations & Media (`Video thuyết trình_/` & `Hình ảnh/`):** Presentation logs, slides, and class activity records.
-- ** Study Materials (`Tài liệu điện tử/`):** Reference documents and notes collected during coursework.
-- ** Learning Progress (`Learning Tracker.xlsx`):** Structured tracking log of learning milestones and coursework completion.
+-  Reports & Documentation (`Báo cáo/`): Academic research write-ups and project documentation.
+-  Presentations & Media (`Video thuyết trình_/` & `Hình ảnh/`): Presentation logs, slides, and class activity records.
+-  Study Materials (`Tài liệu điện tử/`): Reference documents and notes collected during coursework.
+-  Learning Progress (`Learning Tracker.xlsx`): Structured tracking log of learning milestones and coursework completion.
 
 ---
 
